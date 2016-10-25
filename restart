@@ -1,0 +1,1 @@
+celery multi restart 2 -A proj -l info -Ofair -P prefork
